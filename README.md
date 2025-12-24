@@ -350,10 +350,6 @@ server.get('/public/docs', (req, res) => {
 * **Projeto local**: AluraBooks (`http://localhost:8000`) — exemplos práticos usados nas aulas.
 * **Ferramentas citadas**: DevTools (Network), Postman, Telnet, Wireshark, OpenSSL, Node.js (https).
 
----
 
-> **Licença do conteúdo:** material extraído e reorganizado a partir de anotações e resumos das aulas assistidas. Uso previsto: estudo pessoal e revisão.
-
-```
 
 ```
