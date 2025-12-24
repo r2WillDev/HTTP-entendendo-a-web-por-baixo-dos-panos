@@ -336,11 +336,7 @@ server.get('/public/docs', (req, res) => {
 
 ## 🚀 Próximos Estudos
 
-* Estrutura de **URLs**: esquema, host, porta, caminho, query.
-* Resolução de nomes e **DNS** em produção.
-* **Formatação e validação do body** (JSON, form-data) e parâmetros no HTTP.
-* **Aprofundar segurança**: TLS, gestão de certificados, refresh tokens e políticas de sessão (cookies vs tokens).
-* Acompanhar evolução de protocolos (**HTTP/2** e **HTTP/3/QUIC**) e sua adoção prática.
+* Terminal: aprenda comandos para executar tarefas
 
 ---
 
@@ -350,6 +346,3 @@ server.get('/public/docs', (req, res) => {
 * **Projeto local**: AluraBooks (`http://localhost:8000`) — exemplos práticos usados nas aulas.
 * **Ferramentas citadas**: DevTools (Network), Postman, Telnet, Wireshark, OpenSSL, Node.js (https).
 
-
-
-```
